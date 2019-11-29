@@ -1,0 +1,48 @@
+cmd:
+netstat -ano
+这将显示正在使用的所有端口以及正在使用该端口的进程的进程ID PID＃。然后Ctrl+ Alt+ Del并打开任务管理器以查看哪个进程。
+
+python清屏指令
+import os
+os.system('cls')
+
+
+https://www.runoob.com/eclipse/eclipse-shortcuts.html
+eclipse快捷键
+
+alt+shift+r重命名方法或者类
+
+crtl+shift+K 寻找下一个目标
+
+alt+shift+j 生成文件著作者多行注释
+
+crtl+M 当前窗口最大化
+
+crtl+shift+o 快捷导入需要使用的包
+
+crtl +d 清除当前行
+
+alt+shift+q开启eclipse窗口
+
+alt+shift+down为复制当前行到下一行 up为复制到上一行
+
+"缺省"就是default的意思
+
+()->箭头函数左边的括号中可以加入参数，箭头后面是命令，相当于创造一个匿名内部类
+
+
+vscode:
+crtl+g
+打开跳转至行
+
+
+java thread：
+优先级低只是意味着获得调度的概率低。并不是绝对先调用优先级高的线程后调用优先级低的线程。
+
+
+已解决：
+添加完pydev后再
+eclipse里没有提示过快捷添加了
+在python项目里右键会有快捷添加
+在java项目里没有添加类的选项，不过在其他里面有所有需要的
+比较麻烦
